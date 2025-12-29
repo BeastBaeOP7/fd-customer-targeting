@@ -42,11 +42,6 @@ This system uses machine learning to:
 
 ---
 
-## 🖥 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
-
----
-
 ## 🚀 How to Run Locally
 
 ### 1️⃣ Install dependencies
